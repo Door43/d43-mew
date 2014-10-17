@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mew:home|Door43 (mew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mew|d43-mew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mew/archive/master.zip|d43-mew.zip]]
+
+**Recent Changes**
+{{changes>ns = mew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mew|Ethnologue data]]
+
